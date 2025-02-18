@@ -25,4 +25,4 @@ This project aims to forecast Apple Inc.'s quarterly net sales using a SARIMA mo
 Open the Jupyter Notebook (`.ipynb` file) in any Jupyter environment (e.g., Anaconda, Google Colab).
 
 ## Contact
-Feel free to connect with me on [LinkedIn]((https://www.linkedin.com/in/nicole-b-60b12139/)).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nicole-b-60b12139/).
