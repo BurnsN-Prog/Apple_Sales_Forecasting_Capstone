@@ -5,8 +5,8 @@ This project aims to forecast Apple Inc.'s quarterly net sales using a SARIMA mo
 
 ## Key Files
 - 📊 **Notebook:** `Burns_D214_Task2.ipynb` – Full data analysis and model building process in Python.
-- 📝 **Report:** `Burns_D214_Written Report.docx` – Formal capstone paper with detailed explanations.
-- 📢 **Presentation:** `Burns_D214_Presentation.pptx` – Summary presentation slides.
+- 📝 **Report:** `Burns_D214_Written Report.pdf` – Formal capstone paper with detailed explanations.
+- 📢 **Presentation:** `Burns_D214_Presentation.pdf` – Summary presentation slides.
 
 ## Results
 - Long-term forecast: 67% accuracy (MAPE: 33%)
