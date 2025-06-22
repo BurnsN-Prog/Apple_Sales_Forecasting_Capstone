@@ -1,7 +1,7 @@
 # Apple Inc. Quarterly Sales Forecasting (Capstone Project)
 
 ## Project Overview
-This project aims to forecast Apple Inc.'s quarterly net sales using a SARIMA model. The goal was to evaluate the model’s accuracy in both long-term and short-term forecasting.
+This project aims to forecast Apple Inc.'s quarterly net sales using a SARIMA model. The goal was to obtain a model accuracy greater than 80%.
 
 ## Key Files
 - 📊 **Notebook:** `Burns_D214_Task2.ipynb` – Full data analysis and model building process in Python.
